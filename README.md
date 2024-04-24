@@ -1,4 +1,4 @@
-# README for Call Routing Analysis Project
+# README for Multi-Channel Lead Performance Project
 ## Overview
 This project encompasses the development and implementation of a technical solution for analyzing the funnel/flow of calls received by a company from the marketing platform Invoca until they reach an agent. The tool provides stakeholders with insights into the call drop rate by time of day, marketing channel, and campaign segment.
 
